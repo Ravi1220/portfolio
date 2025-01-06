@@ -10,7 +10,7 @@ export default function Header() {
       <div className="z-10 text-center">
         <div className="mb-6">
           <img
-            src=".\src\assets\photo.jpg"
+            src="https://ibb.co/mbyWsHm"
             alt="Profile"
             className="w-32 h-32 rounded-full border-4 border-white mx-auto shadow-xl"
           />
